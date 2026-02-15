@@ -11,4 +11,4 @@
 内容说明：
 看片网汇总电影、电视剧及相关影视内容信息，页面布局简洁，更新节奏稳定。整体适合日常影视浏览参考。本条目仅用于公开站点资料记录与索引说明，不构成任何合作或推荐关系。
 
-v
+Site notes: https://patriciaunlve.github.io/video-platform-structure-structurenexus/
